@@ -34,11 +34,17 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaysingh91&show_icons=true&theme=transparent" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysingh91&theme=transparent" alt="streak" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysingh91&layout=compact&theme=transparent" alt="top-langs" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaysingh91&show_icons=true&theme=transparent" alt="stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysingh91&theme=transparent" alt="streak" height="180" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysingh91&layout=compact&theme=transparent" alt="top-langs" height="180" />
+
+</div>
+
