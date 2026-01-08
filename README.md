@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akshay Singh</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Exploring AI & ML</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer | Learning Flutter </h3>
 
 ---
 
 ### 🔥 About Me  
-- 🚀 Currently building: **Interior Dashboard Project for a client**  
-- 🌱 Learning: **Python & DSA in Python**  
-- 🎯 Goal: **Blending Full-Stack Development with AI/ML**  
+- 🚀 Currently building: **Text & Voice Note application in flutter for cross platform**  
+- 🌱 Learning: **Learning Oracle SQL & flutter**  
+- 🎯 Goal: **To build my own product**  
 - 📫 Reach me at: **singhakshay8794@gmail.com**
 
 ---
